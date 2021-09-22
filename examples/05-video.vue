@@ -30,7 +30,7 @@
           height: '360',
           sources: [{
             type: "rtmp/mp4",
-            src: "rtmp://184.72.239.149/vod/&mp4:BigBuckBunny_115k.mov"
+            src: "rtmp://58.200.131.2:1935/livetv/cctv1"
           }],
           techOrder: ['flash'],
           autoplay: false,
